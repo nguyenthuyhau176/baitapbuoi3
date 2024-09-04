@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 50%; /* Tự động điều chỉnh theo 50% chiều rộng của màn hình */
+    max-width: 600px; /* Chiều rộng tối đa */
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    box-sizing: border-box; /* Bao gồm padding và border vào width */
+}

@@ -1,0 +1,17 @@
+ body {
+    padding:20px;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+ }
+ .doan1 {
+    li:hover {
+        color:rgb(118, 118, 241)
+    }
+   
+    color:blue;
+}
+#myHeader {
+    a:link {
+        color:blue
+    }
+}
